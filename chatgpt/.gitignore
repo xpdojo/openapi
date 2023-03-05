@@ -1,0 +1,9 @@
+# Secret
+api.key
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
