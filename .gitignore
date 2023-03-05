@@ -1,2 +1,8 @@
+# IDE
 .idea
+
+# virtualenv
 .venv
+
+# auth
+api.key
