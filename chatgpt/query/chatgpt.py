@@ -21,8 +21,9 @@ def main(
 
     model: dict
     gtp3_model = {
-        "name": "text-davinci-003",
-        "max_token": 4_000,
+    #    "name": "text-davinci-003",
+        "name": "gpt-3.5-turbo",
+        "max_token": 4_096,
     }
     # codex_model = {
     #     "name": "code-davinci-002",
